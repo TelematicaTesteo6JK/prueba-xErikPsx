@@ -1,6 +1,5 @@
-# Ejemplo
+# Prueba
 
-PRUEBA
 
 HAZ UNA COPIA LOCAL DEL REPOSITORIO
 

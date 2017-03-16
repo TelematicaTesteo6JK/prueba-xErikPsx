@@ -9,7 +9,7 @@ HAZ UNA COPIA LOCAL DEL REPOSITORIO
 TRABAJA EN UNA RAMA PARA NO MODIFICAR DIRECTAMENTE EL MASTER
 
 2. Crea una nueva rama (branch) a partir del master. Ponle un nombre descriptivo.
-3. En la versión local del archivo prueba.txt agrega tu nombre. Observa que en el archivo en línea aún no se realiza el cambio.
+3. En la versión local del archivo nombre.txt agrega tu nombre. Observa que en el archivo en línea aún no se realiza el cambio.
 4. Realiza el commit del cambio en la rama que creaste. Opcionalmente agrega una breve descripción.
 
 UNE LOS CAMBIOS DE TU RAMA AL MASTER
